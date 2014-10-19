@@ -1,0 +1,13 @@
+### Idea Files
+
+**.iml
+**.ipr
+**.iws
+
+.idea/**
+.gradle/**
+
+**/build/**
+**.jar
+
+out/**
