@@ -6,3 +6,6 @@ repositories {
 }
 
 
+dependencies {
+    testCompile "org.spockframework:spock-core:0.7-groovy-1.8"
+}
